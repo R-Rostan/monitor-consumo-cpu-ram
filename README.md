@@ -1,4 +1,4 @@
-# <b>Monitoramento consumo de memória RAM</b>
+# <b>Monitor consumo de memória RAM</b>
 
 <p>Este script apresenta de forma simples um <b>método para monitoramento do percentual de memória RAM consumido</b> de uma máquina por uma função ou processo.</p>
 <p>Como exemplo, no início do script foi desenvolvida uma função denominada "geracao_dataframe" para demonstração do funcionamento do método. A imagem abaixo é o resultado da execução do script:</p>
